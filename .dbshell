@@ -1,0 +1,189 @@
+clear
+mongod
+show dbs
+mongocampas
+bd.show()
+mongodb campas connect
+show databases
+show database
+show databases
+mongo
+show databases
+db.dropDatabase()
+root@98c814dcf106:/#
+docker
+show database
+show databases
+use web13
+mongoimport --drop --collection users --file ~/desktop/users --jsonArray
+mongoimport --drop --collection users -- file `/desktop/users.json --jsonArray
+db.dropDatabase()
+mongoimport --drop --collection users --file ~/Desktop/users.json --jsonArray
+mongoimport --drop --collection users --file ~/Desktop/users --jsonArray
+db show Databases
+db show databases
+db show databaseses
+db show databases
+db useweb13
+db showdatabseses
+show database
+db.help()
+show databases
+use web13
+show databases
+use web13
+show databases
+db.dropDatabase()
+mongoimport --help
+mongoimport --help()
+use web13
+show database
+use web13
+db.users.find()
+use web13
+show databases
+db.users.find()
+clear
+use web13
+db.showdatabases
+show databases
+db.users.count()
+db.users.find()
+use web13
+show databases
+db.findDatabase
+db.users.find()
+show databases
+use assingment
+db.users.find()
+show dbs
+show collection
+show collections
+use web11
+show dbs
+db.createcollection('users')
+db.createCollection('users')
+show dbs
+use web11
+show dbs
+show collections
+show dbs
+use web11
+show collections
+db.users.insert({"first_Name":"shashi"})
+db.users.find()
+db.users.findOne()
+db.insert({"first_Name":"kundan"})
+db.users.insertMany({"first_Name":"kundan"},{"first_Name":"roushan"})
+show collections
+db.users.insert({"first_Name":"suraj"})
+db.users.insertMany([{"fisrt_name":"kundan"},{"fisrt_name":"rahul"},{"fisrt_name":"sikha"}])
+show users
+show collections
+db.users.find()
+db.users.remove({"first_name":"kundan"})
+db.users.find()
+db.users.remove({"fisrt_name":"kundan"})
+db.users.find()
+db.web11.remove()
+db.remove.web11
+show dbs
+db.dropDatabase()
+show dbs
+use movie
+show dbs
+db.show collections
+show collections
+show dbs
+use movies
+db.users.find()
+db.users.find({movie_name:{$eq:"Heartbeeps"}}).pretty()
+db.users.find({budget:{$gt:20000}}).pretty()
+db.users.find({budget:{$gt:$10000}}).pretty()
+db.users.find({budget:{$gt:{"$10000"}}})
+db.users.find({budget:{$gt:10000}})
+show dbs
+db.users.find({"budget":{$gt:$10000}}).pretty()
+db.users.find()
+db.users.find({budget:{$gt:"$10000"}})
+show dbs
+use movies
+db.users.find()
+db.users.find({$and:[{production_year:{$gt:2000}},{budget:{$gte:"$10000"}}]})
+db.users.find({$or:[{production_year:{$gt:2000}},{budget:{$gte:"$10000"}}]})
+db.users.find({$nor:[{production_year:{$gt:2000}},{budget:{$gt:"$10000"}}]})
+show dbs
+db.users.find()
+show dbs
+npm run server
+npm run server
+npm server run
+show dbs
+db.users.find()
+use web13
+show collections
+db.users.find()
+show collections
+db.users.count()
+db.tags.count()
+db.posts.count()
+npm run server
+show dbs
+db.drop.Database()
+use web13
+db.users.find()
+db.users.count()
+use web13
+db.dropDatabase()
+show dbs
+use web13
+show dbs
+use web13
+db.users.find()
+show dbs
+db.users.find()
+use web13
+show dbs
+use web13
+show collections
+db.users.find({})
+db.dropDatabase()
+show dbs
+npm run server
+show dbs
+db.users.find()
+use web13
+db.users.find()
+show dbs
+use web13
+db.users.find()
+show dbs
+mongo
+cleasr
+clear
+show dbs
+show dbs
+mongo/import --drop --db pagination --collection users --file users.json
+mongo/import --drop --db pagination --collection users --file users.jsonArray
+mongoinport --drop --db pagination --collection users --file users.jsonArray
+mongoimport --drop --db pagination --collection users --file users.jsonArray
+show dbs
+db.dropDatabase()
+show collections
+show dbs
+use pagination
+show dbs
+db.createcollection("users")
+db.createCollection("users")
+show dbs
+db dropDatabase()
+mongoimport --drop --collection users --file /Desktop/user --jsonArray
+mongoimport --drop --collection users --file ~/Desktop/user.json --jsonArray
+mongoimport --drop --collection users --file ~/Desktop/users --jsonArray
+mongoimport --drop --collection users --file ~/Desktop/users.json --jsonArray
+mongoimport --drop --collections users --file ~/Desktop/user.json --jsonArray
+mongoimport --drop --db pagination --collection users --file ~/Desktop/users.json --jsonArray
+mongoimport --drop --db pagination --collection users --file .../Desktop/users.json --jsonArray
+mongo
+shioow dbs
+show dbs
